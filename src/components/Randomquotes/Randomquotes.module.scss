@@ -1,0 +1,22 @@
+@import '../../styles/Global.module.scss';
+
+.Randomquote {
+  box-sizing: border-box;
+  max-width: 80vw;
+  height: 80vh;
+  margin: 10vh auto;
+  padding: 2rem;
+  background-color: $customcolor;
+}
+.tweeter-ctr {
+  align-self: flex-end;
+  &:hover {
+    .tweeter-ico {
+      fill: #1da1f2;
+    }
+  }
+}
+.tweeter-ico {
+  width: 2rem;
+  fill: #000;
+}
