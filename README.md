@@ -1,3 +1,3 @@
 # testPWA
 
-https://suzettesousa.github.io/testPWA/
+https://suzette-sousa.github.io/testPWA/
